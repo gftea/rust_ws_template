@@ -9,3 +9,5 @@ edition = "2021"
 mylib1 = {path = "../mylib1"}
 mylib2 = {path = "../mylib2"}
 rand = "0.8.3"
+hello_macro = { path = "../hello_macro" }
+hello_macro_derive = { path = "../hello_macro/hello_macro_derive" }
